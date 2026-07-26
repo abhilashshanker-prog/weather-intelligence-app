@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "A high-performance Weather Intelligence web app using Open-Meteo Geocoding and Forecast APIs, offering real-time weather metrics, 7-day forecasts, interactive charts, and smart activity recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
